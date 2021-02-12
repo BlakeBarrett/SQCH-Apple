@@ -1,9 +1,77 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
     "grid-size" : "regular"
-  }
+  },
+  "stickers" : [
+    {
+      "filename" : "Sleeping_Sasquatch.sticker"
+    },
+    {
+      "filename" : "Sasquatch_Vibing.sticker"
+    },
+    {
+      "filename" : "Bigfoot_ROTFL.sticker"
+    },
+    {
+      "filename" : "Bigfoot_carrying_wood.sticker"
+    },
+    {
+      "filename" : "Bigfoot_yeah_baby.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Shitt’n.sticker"
+    },
+    {
+      "filename" : "Bigfoot_YEAH.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Gasp!.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Negative.sticker"
+    },
+    {
+      "filename" : "Bigfoot_face.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Sympathy_Face.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Scared_Face.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Grin’n.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Smile.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Excited_Face.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Excited_Heart_Eyes.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Heart_Eyes_Kissing.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Smile_Heart_Eyes.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Grin_Heart_Eyes.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Mask_Heart_Eyes.sticker"
+    },
+    {
+      "filename" : "Bigfoot_mask’n.sticker"
+    },
+    {
+      "filename" : "Bigfoot_Dissapointed_Mask.sticker"
+    }
+  ]
 }

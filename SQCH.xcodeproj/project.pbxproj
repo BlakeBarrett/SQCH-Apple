@@ -40,12 +40,14 @@
 		FB2F13EE25CE12970036744C /* SQCH.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SQCH.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB2F13F225CE12970036744C /* SQCH StickerPackExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "SQCH StickerPackExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB2F13F625CE12970036744C /* Stickers.xcstickers */ = {isa = PBXFileReference; lastKnownFileType = folder.stickers; name = Stickers.xcstickers; path = "SQCH StickerPackExtension/Stickers.xcstickers"; sourceTree = "<group>"; };
+		FB8321DB25D6660300561A33 /* SQCH StickerPackExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = "SQCH StickerPackExtension.entitlements"; path = "SQCH StickerPackExtension/SQCH StickerPackExtension.entitlements"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		FB2F13E725CE12970036744C = {
 			isa = PBXGroup;
 			children = (
+				FB8321DB25D6660300561A33 /* SQCH StickerPackExtension.entitlements */,
 				FB2F13F625CE12970036744C /* Stickers.xcstickers */,
 				FB2F13EF25CE12970036744C /* Products */,
 			);
@@ -274,13 +276,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CODE_SIGN_ENTITLEMENTS = "SQCH StickerPackExtension/SQCH StickerPackExtension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = JJNWD2J7X4;
 				INFOPLIST_FILE = "SQCH StickerPackExtension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.blakebarrett.SQCH.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -289,13 +294,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
+				CODE_SIGN_ENTITLEMENTS = "SQCH StickerPackExtension/SQCH StickerPackExtension.entitlements";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = JJNWD2J7X4;
 				INFOPLIST_FILE = "SQCH StickerPackExtension/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.blakebarrett.SQCH.StickerPackExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SUPPORTS_MACCATALYST = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -305,6 +313,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = JJNWD2J7X4;
 				INFOPLIST_FILE = SQCH/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
@@ -319,6 +328,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = JJNWD2J7X4;
 				INFOPLIST_FILE = SQCH/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;

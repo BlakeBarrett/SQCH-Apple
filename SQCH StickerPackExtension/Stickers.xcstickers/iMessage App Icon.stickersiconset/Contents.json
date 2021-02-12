@@ -1,13 +1,13 @@
 {
   "images" : [
     {
-      "filename" : "Bigfoot_Smile-59.png",
+      "filename" : "Bigfoot_Smile-58.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
-      "filename" : "Bigfoot_Smile-87.png",
+      "filename" : "87.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
@@ -25,7 +25,7 @@
       "size" : "60x45"
     },
     {
-      "filename" : "Bigfoot_Smile-58.png",
+      "filename" : "58.png",
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "29x29"
